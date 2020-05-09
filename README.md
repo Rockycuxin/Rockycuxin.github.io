@@ -1,6 +1,1 @@
-# I'm Rocky
--  This is My's New Web!
-  - Welcome~
-# 我是Rocky
-- 这是我的新网站！
-  - 欢迎～
+# [简体中文](http://github.com/rockycuxin.github.io/tree/master/README/cn.md)
