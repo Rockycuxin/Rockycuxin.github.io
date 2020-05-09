@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>说说</title>
+		<script>
+			window.onload = function ()
+			{
+				var oBtn = document.getElementById('Btn');
+				oBtn.onclick = function()
+				{
+					var oUl = document.getElementById('list');
+					var oTxt = document.getElementById('txt');
+					var textNode = document.createTextNode(oTxt.value);
+					var oLi = docment.Element('li');
+					oLi.appendChild(textNode);
+					oUl.appendChild(oLi);
+				}
+			}
+	</head>
+	<body>
+		<ul id="list">
+			<li>欢迎机器人：你来啦？最新的版本出锅啦！</li>
+		</ul>
+		<input id="txt" type="text"/><input id="btn" type="button" value="发送"/>
+	</body>
+</html>
