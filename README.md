@@ -1,7 +1,7 @@
 [COVID-19](https://github.com/rockycuxin.github.io/blob/master/covid-19.md)
 - 中国🇨🇳
   - [简体中文](https://github.com/Rockycuxin/rockycuxin.github.io/blob/master/README/cn.md)
-  - [繁體中文](https://github.com/Rockycuxin/rockycuxin.github.io/blob/master/README/cn-1.md)
+  - [繁體中文](https://github.com/Rockycuxin/rockycuxin.github.io/blob/master/README/tw.md)
 - 俄罗斯🇷🇺  русский
   - [русский](https://github.com/Rockycuxin/rockycuxin.github.io/blob/master/README/russian.md)
 - 日本国🇯🇵
