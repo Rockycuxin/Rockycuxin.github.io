@@ -1,1 +1,1 @@
-# [简体中文](http://github.com/rockycuxin.github.io/tree/master/README/cn.md)
+# [简体中文](https://github.com/Rockycuxin/rockycuxin.github.io/blob/master/README/cn.md)
