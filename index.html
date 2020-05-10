@@ -1,10 +1,34 @@
 <style type="text/css">
    @import url(/Semantic-UI-master/semantic.css)
 </style>
+<script>
+function Login()
+{
+  function pass()
+  {
+    a = 1
+  }
+  name = prompt('你是谁？')
+  docment.write('欢迎'+name)
+  dengluzhuangtai = 'zhengzaidenglu'
+  password = prompt('密码是？游客不用填')
+  pswd = "159357rrrocky521"
+  pswd1 = "admin"
+  if (password == pswd){
+    dengluzhuangtai = 'superuser-rocky'
+    docment.write('你好啊开发者 Rocky')
+  } elif (password == pswd1){
+    dengluzhuangtai = 'superuser-dad'
+    docment.write()
+  } else{
+    pass()
+  }
+}
+</script>
 <link rel="stylesheet" href="/Semantic-UI-master/semantic.css">
 <div class="ui secondary  menu">
   <a class="active item">首页</a>
-  <a class="item" href="/code">玩转代码</a>
+  <a class="item" href="/">玩转代码</a>
   <a class="item" href="/about">关于</a>
   <div class="right menu">
     <a class="ui item" href="/shuoshuo">说说</a>
