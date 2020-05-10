@@ -12,6 +12,7 @@
   - [한국어](https://github.com/Rockycuxin/rockycuxin.github.io/blob/master/README/korea.md)
 - 加拿大🇨🇦  Français canadien
   - [Français canadien](https://github.com/Rockycuxin/rockycuxin.github.io/blob/master/README/canada.md)
+---
 繁體中文
   - 大家好
     - 這是我的新網址
